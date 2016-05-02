@@ -132,13 +132,14 @@
  }
  /*CSS Reset END*/
  
+ @import url(https://fonts.googleapis.com/css?family=Lobster);
  @font-face {
      font-family: "Emblema One";
      src: url ("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"), url ("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
  }
  
  body {
-     font-family: setofont, Verdana, Geneva, Arial, sans-serif;
+     font-family: setofont, Lobster Verdana, Geneva, Arial, sans-serif;
  }
  
  p {
@@ -160,7 +161,7 @@
  }
  
  h1 {
-     font-family: "Emblema One";
-     font-size: 80px;
+     font-family: "Lobster", cursive;
+     font-size: 70px;
      color: #38cad7
  }
