@@ -143,6 +143,8 @@
  }
  
  p {
+     width: 70%;
+     margin: auto;
      background-color: #38cad7;
      color: #ffffff;
      border: 5px solid #007984;
@@ -164,4 +166,24 @@
      font-family: "Lobster", cursive;
      font-size: 70px;
      color: #38cad7
+ }
+ 
+ .guarantee {
+     width: 25%;
+     padding: 6%;
+     line-height: 30px;
+     padding-left: 10%;
+     margin-top: 30px;
+     margin-left: 30px;
+     margin-bottom: 50px;
+     margin: auto;
+     text-align: center;
+     border-color: white;
+     border-width: 4px;
+     border-style: dashed;
+     border-radius: 25px;
+     background-color: #72deb2;
+     background-image: url(../padding/images/102.png);
+     background-position: top left;
+     background-repeat: no-repeat;
  }
