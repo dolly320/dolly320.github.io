@@ -145,6 +145,7 @@
  p {
      width: 70%;
      margin: auto;
+     text-align: center;
      background-color: #38cad7;
      color: #ffffff;
      border: 5px solid #007984;
